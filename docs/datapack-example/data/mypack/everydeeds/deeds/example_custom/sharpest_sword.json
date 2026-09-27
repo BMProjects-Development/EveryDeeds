@@ -1,0 +1,8 @@
+{
+  "category": "items",
+  "action": "obtained",
+  "targets": { "id": "minecraft:diamond_sword" },
+  "predicate": { "type": "has_enchantment", "enchantment": "minecraft:sharpness", "min_level": 5 },
+  "title": "Obtain a Sharpness V diamond sword",
+  "reward": { "experience": 100 }
+}

@@ -1,7 +1,7 @@
 {
     "required": true,
     "minVersion": "0.8",
-    "package": "ru.benos.everydeeds.mixin.client",
+    "package": "ru.benos.everydeeds.mixins.client",
     "compatibilityLevel": "JAVA_25",
     "client": [
     ],

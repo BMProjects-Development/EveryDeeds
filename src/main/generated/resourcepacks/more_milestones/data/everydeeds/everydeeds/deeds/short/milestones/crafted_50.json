@@ -1,0 +1,13 @@
+{
+  "action": "crafted",
+  "aggregate": true,
+  "category": "items",
+  "goal": {
+    "type": "count",
+    "count": 50
+  },
+  "icon": "minecraft:crafting_table",
+  "targets": {
+    "all": {}
+  }
+}

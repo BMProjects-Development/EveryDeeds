@@ -1,0 +1,9 @@
+{
+  "category": "entities",
+  "action": "killed",
+  "targets": { "id": "minecraft:zombie" },
+  "goal": { "type": "count", "count": 5 },
+  "predicate": { "type": "baby" },
+  "title": "Kill 5 baby zombies",
+  "reward": { "experience": 50 }
+}

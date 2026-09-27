@@ -1,0 +1,7 @@
+{
+  "action": "tamed",
+  "category": "entities",
+  "targets": {
+    "tag": "everydeeds:tameable"
+  }
+}

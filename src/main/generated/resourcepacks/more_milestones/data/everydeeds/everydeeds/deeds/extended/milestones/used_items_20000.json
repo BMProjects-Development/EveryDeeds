@@ -1,0 +1,13 @@
+{
+  "action": "used",
+  "aggregate": true,
+  "category": "items",
+  "goal": {
+    "type": "count",
+    "count": 20000
+  },
+  "icon": "minecraft:bow",
+  "targets": {
+    "all": {}
+  }
+}

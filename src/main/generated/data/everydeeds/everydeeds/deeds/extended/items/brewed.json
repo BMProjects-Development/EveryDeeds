@@ -1,0 +1,7 @@
+{
+  "action": "brewed",
+  "category": "items",
+  "targets": {
+    "tag": "everydeeds:brewable"
+  }
+}

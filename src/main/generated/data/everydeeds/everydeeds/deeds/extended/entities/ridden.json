@@ -1,0 +1,7 @@
+{
+  "action": "ridden",
+  "category": "entities",
+  "targets": {
+    "tag": "everydeeds:rideable"
+  }
+}

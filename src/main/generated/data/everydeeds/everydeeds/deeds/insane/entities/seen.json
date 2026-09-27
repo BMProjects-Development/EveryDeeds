@@ -1,0 +1,12 @@
+{
+  "action": "seen",
+  "category": "entities",
+  "targets": {
+    "all": {
+      "exclude": "everydeeds:technical",
+      "traits": [
+        "living"
+      ]
+    }
+  }
+}

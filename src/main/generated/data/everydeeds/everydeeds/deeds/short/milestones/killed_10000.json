@@ -1,0 +1,13 @@
+{
+  "action": "killed",
+  "aggregate": true,
+  "category": "entities",
+  "goal": {
+    "type": "count",
+    "count": 10000
+  },
+  "icon": "minecraft:iron_sword",
+  "targets": {
+    "all": {}
+  }
+}

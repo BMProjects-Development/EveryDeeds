@@ -1,0 +1,16 @@
+{
+  "values": [
+    {
+      "id": "minecraft:monument",
+      "required": false
+    },
+    {
+      "id": "minecraft:swamp_hut",
+      "required": false
+    },
+    {
+      "id": "minecraft:nether_fossil",
+      "required": false
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "values": [
+    {
+      "id": "minecraft:player",
+      "required": false
+    },
+    {
+      "id": "minecraft:giant",
+      "required": false
+    },
+    {
+      "id": "minecraft:illusioner",
+      "required": false
+    },
+    {
+      "id": "minecraft:mannequin",
+      "required": false
+    }
+  ]
+}

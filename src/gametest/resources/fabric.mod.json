@@ -1,0 +1,17 @@
+{
+    "schemaVersion": 1,
+    "id"     : "everydeeds-gametest",
+    "version": "1.0",
+    "name"   : "EveryDeeds GameTests",
+    "environment": "*",
+    "entrypoints": {
+        "fabric-client-gametest": [
+            { "adapter": "kotlin", "value": "ru.benos.everydeeds.gametest.ConfigScreenClientTest" },
+            { "adapter": "kotlin", "value": "ru.benos.everydeeds.gametest.DocumentationClientTest" },
+            { "adapter": "kotlin", "value": "ru.benos.everydeeds.gametest.LanguageReloadClientTest" },
+            { "adapter": "kotlin", "value": "ru.benos.everydeeds.gametest.TabloScreenClientTest" },
+            { "adapter": "kotlin", "value": "ru.benos.everydeeds.gametest.DeedTrackingClientTest" }
+        ]
+    },
+    "depends": { "everydeeds": "*" }
+}

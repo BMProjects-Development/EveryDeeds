@@ -1,0 +1,13 @@
+{
+  "action": "fished",
+  "aggregate": true,
+  "category": "items",
+  "goal": {
+    "type": "count",
+    "count": 250
+  },
+  "icon": "minecraft:fishing_rod",
+  "targets": {
+    "all": {}
+  }
+}

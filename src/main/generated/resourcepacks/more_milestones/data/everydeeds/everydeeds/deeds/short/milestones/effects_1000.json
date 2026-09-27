@@ -1,0 +1,13 @@
+{
+  "action": "obtained",
+  "aggregate": true,
+  "category": "effects",
+  "goal": {
+    "type": "count",
+    "count": 1000
+  },
+  "icon": "minecraft:beacon",
+  "targets": {
+    "all": {}
+  }
+}

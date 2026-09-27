@@ -1,0 +1,13 @@
+{
+  "action": "traveled",
+  "aggregate": true,
+  "category": "entities",
+  "goal": {
+    "type": "count",
+    "count": 1000
+  },
+  "icon": "minecraft:saddle",
+  "targets": {
+    "tag": "everydeeds:rideable"
+  }
+}

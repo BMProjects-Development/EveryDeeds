@@ -1,0 +1,13 @@
+{
+  "action": "ridden",
+  "aggregate": true,
+  "category": "entities",
+  "goal": {
+    "type": "count",
+    "count": 10000
+  },
+  "icon": "minecraft:lead",
+  "targets": {
+    "all": {}
+  }
+}

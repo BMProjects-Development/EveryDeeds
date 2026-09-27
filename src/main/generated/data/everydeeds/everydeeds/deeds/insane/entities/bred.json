@@ -1,0 +1,7 @@
+{
+  "action": "bred",
+  "category": "entities",
+  "targets": {
+    "tag": "everydeeds:breedable"
+  }
+}

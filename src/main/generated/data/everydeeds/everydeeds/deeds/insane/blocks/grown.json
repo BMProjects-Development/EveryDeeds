@@ -1,0 +1,7 @@
+{
+  "action": "grown",
+  "category": "blocks",
+  "targets": {
+    "tag": "everydeeds:growable"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "action": "used",
+  "category": "blocks",
+  "targets": {
+    "all": {
+      "exclude": "everydeeds:technical",
+      "traits": [
+        "targetable",
+        "usable"
+      ]
+    }
+  }
+}

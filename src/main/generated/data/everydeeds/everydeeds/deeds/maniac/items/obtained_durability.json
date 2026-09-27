@@ -1,0 +1,16 @@
+{
+  "action": "obtained",
+  "category": "items",
+  "goal": {
+    "type": "unique",
+    "variant": "durability"
+  },
+  "targets": {
+    "all": {
+      "exclude": "everydeeds:unobtainable",
+      "traits": [
+        "damageable"
+      ]
+    }
+  }
+}

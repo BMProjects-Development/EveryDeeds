@@ -1,0 +1,9 @@
+{
+  "pack": {
+    "description": {
+      "translate": "pack.everydeeds.more_milestones.description"
+    },
+    "max_format": 121,
+    "min_format": 121
+  }
+}

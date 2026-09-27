@@ -1,0 +1,11 @@
+{
+  "action": "time_spent",
+  "category": "dimensions",
+  "goal": {
+    "type": "count",
+    "count": 360000
+  },
+  "targets": {
+    "all": {}
+  }
+}

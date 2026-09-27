@@ -1,0 +1,13 @@
+{
+  "action": "seen",
+  "aggregate": true,
+  "category": "structures",
+  "goal": {
+    "type": "count",
+    "count": 100
+  },
+  "icon": "minecraft:spyglass",
+  "targets": {
+    "all": {}
+  }
+}

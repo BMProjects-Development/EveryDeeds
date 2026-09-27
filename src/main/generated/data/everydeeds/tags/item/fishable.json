@@ -1,0 +1,92 @@
+{
+  "values": [
+    {
+      "id": "minecraft:cod",
+      "required": false
+    },
+    {
+      "id": "minecraft:salmon",
+      "required": false
+    },
+    {
+      "id": "minecraft:tropical_fish",
+      "required": false
+    },
+    {
+      "id": "minecraft:pufferfish",
+      "required": false
+    },
+    {
+      "id": "minecraft:lily_pad",
+      "required": false
+    },
+    {
+      "id": "minecraft:leather_boots",
+      "required": false
+    },
+    {
+      "id": "minecraft:leather",
+      "required": false
+    },
+    {
+      "id": "minecraft:bone",
+      "required": false
+    },
+    {
+      "id": "minecraft:potion",
+      "required": false
+    },
+    {
+      "id": "minecraft:string",
+      "required": false
+    },
+    {
+      "id": "minecraft:fishing_rod",
+      "required": false
+    },
+    {
+      "id": "minecraft:bowl",
+      "required": false
+    },
+    {
+      "id": "minecraft:stick",
+      "required": false
+    },
+    {
+      "id": "minecraft:ink_sac",
+      "required": false
+    },
+    {
+      "id": "minecraft:tripwire_hook",
+      "required": false
+    },
+    {
+      "id": "minecraft:rotten_flesh",
+      "required": false
+    },
+    {
+      "id": "minecraft:bamboo",
+      "required": false
+    },
+    {
+      "id": "minecraft:bow",
+      "required": false
+    },
+    {
+      "id": "minecraft:enchanted_book",
+      "required": false
+    },
+    {
+      "id": "minecraft:name_tag",
+      "required": false
+    },
+    {
+      "id": "minecraft:nautilus_shell",
+      "required": false
+    },
+    {
+      "id": "minecraft:saddle",
+      "required": false
+    }
+  ]
+}

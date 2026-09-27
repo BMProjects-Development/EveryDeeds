@@ -1,0 +1,18 @@
+{
+  "action": "traveled",
+  "aggregate": true,
+  "category": "blocks",
+  "goal": {
+    "type": "count",
+    "count": 10000
+  },
+  "icon": "minecraft:water_bucket",
+  "targets": {
+    "all": {
+      "exclude": "everydeeds:technical",
+      "traits": [
+        "liquid"
+      ]
+    }
+  }
+}

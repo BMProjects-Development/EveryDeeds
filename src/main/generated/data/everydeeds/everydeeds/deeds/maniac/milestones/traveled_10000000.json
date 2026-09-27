@@ -1,0 +1,13 @@
+{
+  "action": "traveled",
+  "aggregate": true,
+  "category": "biomes",
+  "goal": {
+    "type": "count",
+    "count": 10000000
+  },
+  "icon": "minecraft:leather_boots",
+  "targets": {
+    "all": {}
+  }
+}

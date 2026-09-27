@@ -1,0 +1,13 @@
+{
+  "action": "visited",
+  "aggregate": true,
+  "category": "biomes",
+  "goal": {
+    "type": "count",
+    "count": 10000
+  },
+  "icon": "minecraft:compass",
+  "targets": {
+    "all": {}
+  }
+}

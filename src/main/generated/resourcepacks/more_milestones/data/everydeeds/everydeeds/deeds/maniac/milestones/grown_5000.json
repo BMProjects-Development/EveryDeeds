@@ -1,0 +1,13 @@
+{
+  "action": "grown",
+  "aggregate": true,
+  "category": "blocks",
+  "goal": {
+    "type": "count",
+    "count": 5000
+  },
+  "icon": "minecraft:bone_meal",
+  "targets": {
+    "all": {}
+  }
+}

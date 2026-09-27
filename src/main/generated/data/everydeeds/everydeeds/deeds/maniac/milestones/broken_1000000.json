@@ -1,0 +1,13 @@
+{
+  "action": "broken",
+  "aggregate": true,
+  "category": "blocks",
+  "goal": {
+    "type": "count",
+    "count": 1000000
+  },
+  "icon": "minecraft:diamond_pickaxe",
+  "targets": {
+    "all": {}
+  }
+}

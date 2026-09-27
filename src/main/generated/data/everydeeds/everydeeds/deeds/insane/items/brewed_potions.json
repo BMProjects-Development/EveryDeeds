@@ -1,0 +1,11 @@
+{
+  "action": "brewed",
+  "category": "items",
+  "goal": {
+    "type": "unique",
+    "variant": "potion"
+  },
+  "targets": {
+    "tag": "everydeeds:brewable"
+  }
+}

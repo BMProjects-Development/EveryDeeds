@@ -1,0 +1,13 @@
+{
+  "action": "traded",
+  "aggregate": true,
+  "category": "entities",
+  "goal": {
+    "type": "count",
+    "count": 2000
+  },
+  "icon": "minecraft:emerald",
+  "targets": {
+    "all": {}
+  }
+}

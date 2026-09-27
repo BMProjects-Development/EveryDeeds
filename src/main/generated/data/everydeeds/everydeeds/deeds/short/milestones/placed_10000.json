@@ -1,0 +1,13 @@
+{
+  "action": "placed",
+  "aggregate": true,
+  "category": "blocks",
+  "goal": {
+    "type": "count",
+    "count": 10000
+  },
+  "icon": "minecraft:bricks",
+  "targets": {
+    "all": {}
+  }
+}

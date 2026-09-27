@@ -1,0 +1,12 @@
+{
+  "action": "used",
+  "category": "items",
+  "targets": {
+    "all": {
+      "exclude": "everydeeds:unobtainable",
+      "traits": [
+        "usable"
+      ]
+    }
+  }
+}

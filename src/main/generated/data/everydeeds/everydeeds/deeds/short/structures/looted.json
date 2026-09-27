@@ -1,0 +1,9 @@
+{
+  "action": "looted",
+  "category": "structures",
+  "targets": {
+    "all": {
+      "exclude": "everydeeds:lootless"
+    }
+  }
+}

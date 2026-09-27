@@ -1,14 +1,31 @@
 {
-    "required": true,
+    "required"  : true,
     "minVersion": "0.8",
-    "package": "ru.benos.everydeeds.mixin",
+
+    "package"   : "ru.benos.everydeeds.mixins",
     "compatibilityLevel": "JAVA_25",
+
     "mixins": [
+        "AbstractVillagerMixin",
+        "BlockItemMixin",
+        "BoneMealItemMixin",
+        "BredAnimalsTriggerMixin",
+        "BrewingPotionSlotMixin",
+        "ConsumableMixin",
+        "EnchantedItemTriggerMixin",
+        "FireworkRocketEntityMixin",
+        "FishingRodHookedTriggerMixin",
+        "InventoryChangeTriggerMixin",
+        "ItemEntityMixin",
+        "ItemStackMixin",
+        "LootTableTriggerMixin",
+        "MerchantResultSlotMixin",
+        "ServerPlayerEffectMixin",
+        "ServerPlayerGameModeMixin",
+        "ServerPlayerMixin",
+        "TameAnimalTriggerMixin"
     ],
-    "injectors": {
-        "defaultRequire": 1
-    },
-    "overwrites": {
-        "requireAnnotations": true
-    }
+
+    "injectors" : { "defaultRequire": 1 },
+    "overwrites": { "requireAnnotations": true }
 }

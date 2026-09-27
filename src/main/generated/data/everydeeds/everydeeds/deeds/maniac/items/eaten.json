@@ -1,0 +1,12 @@
+{
+  "action": "eaten",
+  "category": "items",
+  "targets": {
+    "all": {
+      "exclude": "everydeeds:unobtainable",
+      "traits": [
+        "edible"
+      ]
+    }
+  }
+}

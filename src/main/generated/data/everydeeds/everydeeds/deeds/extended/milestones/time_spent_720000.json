@@ -1,0 +1,13 @@
+{
+  "action": "time_spent",
+  "aggregate": true,
+  "category": "dimensions",
+  "goal": {
+    "type": "count",
+    "count": 720000
+  },
+  "icon": "minecraft:clock",
+  "targets": {
+    "all": {}
+  }
+}

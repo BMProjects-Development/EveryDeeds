@@ -1,0 +1,12 @@
+{
+  "action": "broken",
+  "category": "blocks",
+  "targets": {
+    "all": {
+      "exclude": "everydeeds:technical",
+      "traits": [
+        "mineable"
+      ]
+    }
+  }
+}

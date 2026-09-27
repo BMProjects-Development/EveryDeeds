@@ -1,0 +1,12 @@
+{
+  "action": "obtained",
+  "category": "items",
+  "goal": {
+    "type": "unique",
+    "required": 16,
+    "variant": "dyed_color"
+  },
+  "targets": {
+    "tag": "everydeeds:dyeable"
+  }
+}

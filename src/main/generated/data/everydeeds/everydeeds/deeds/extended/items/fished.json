@@ -1,0 +1,7 @@
+{
+  "action": "fished",
+  "category": "items",
+  "targets": {
+    "tag": "everydeeds:fishable"
+  }
+}

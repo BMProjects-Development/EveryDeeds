@@ -1,0 +1,17 @@
+{
+  "action": "killed",
+  "category": "entities",
+  "goal": {
+    "type": "unique",
+    "variant": "entity_variant"
+  },
+  "targets": {
+    "all": {
+      "exclude": "everydeeds:technical",
+      "traits": [
+        "living",
+        "has_variants"
+      ]
+    }
+  }
+}

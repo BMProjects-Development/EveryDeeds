@@ -1,0 +1,8 @@
+{
+  "category": "blocks",
+  "action": "broken",
+  "targets": { "tag": "minecraft:logs" },
+  "goal": { "type": "count", "count": 1000 },
+  "aggregate": true,
+  "icon": "minecraft:iron_axe"
+}

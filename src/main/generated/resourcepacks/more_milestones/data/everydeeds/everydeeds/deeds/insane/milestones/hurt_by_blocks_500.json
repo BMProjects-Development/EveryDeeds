@@ -1,0 +1,13 @@
+{
+  "action": "damaged_by",
+  "aggregate": true,
+  "category": "blocks",
+  "goal": {
+    "type": "count",
+    "count": 500
+  },
+  "icon": "minecraft:cactus",
+  "targets": {
+    "all": {}
+  }
+}

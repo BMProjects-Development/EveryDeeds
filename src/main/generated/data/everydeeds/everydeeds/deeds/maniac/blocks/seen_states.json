@@ -1,0 +1,17 @@
+{
+  "action": "seen",
+  "category": "blocks",
+  "goal": {
+    "type": "unique",
+    "variant": "block_state"
+  },
+  "targets": {
+    "all": {
+      "exclude": "everydeeds:technical",
+      "traits": [
+        "targetable",
+        "has_states"
+      ]
+    }
+  }
+}

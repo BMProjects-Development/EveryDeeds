@@ -1,0 +1,7 @@
+{
+  "category": "blocks",
+  "action": "broken",
+  "targets": { "id": "minecraft:ancient_debris" },
+  "goal": { "type": "count", "count": 4 },
+  "predicate": { "type": "dimension", "dimension": "minecraft:the_nether" }
+}

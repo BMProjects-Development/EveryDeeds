@@ -1,0 +1,12 @@
+{
+  "action": "enchanted",
+  "category": "items",
+  "targets": {
+    "all": {
+      "exclude": "everydeeds:unobtainable",
+      "traits": [
+        "table_enchantable"
+      ]
+    }
+  }
+}

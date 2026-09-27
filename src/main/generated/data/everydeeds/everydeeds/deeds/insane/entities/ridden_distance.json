@@ -1,0 +1,11 @@
+{
+  "action": "traveled",
+  "category": "entities",
+  "goal": {
+    "type": "count",
+    "count": 1000
+  },
+  "targets": {
+    "tag": "everydeeds:rideable"
+  }
+}

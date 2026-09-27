@@ -1,0 +1,13 @@
+{
+  "action": "visited",
+  "aggregate": true,
+  "category": "dimensions",
+  "goal": {
+    "type": "count",
+    "count": 1000
+  },
+  "icon": "minecraft:ender_eye",
+  "targets": {
+    "all": {}
+  }
+}

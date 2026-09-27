@@ -1,0 +1,12 @@
+{
+  "action": "crafted",
+  "category": "blocks",
+  "targets": {
+    "all": {
+      "exclude": "everydeeds:unobtainable",
+      "traits": [
+        "craftable"
+      ]
+    }
+  }
+}

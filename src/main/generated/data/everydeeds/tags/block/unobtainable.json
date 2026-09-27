@@ -1,0 +1,172 @@
+{
+  "values": [
+    {
+      "id": "minecraft:air",
+      "required": false
+    },
+    {
+      "id": "minecraft:cave_air",
+      "required": false
+    },
+    {
+      "id": "minecraft:void_air",
+      "required": false
+    },
+    {
+      "id": "minecraft:moving_piston",
+      "required": false
+    },
+    {
+      "id": "minecraft:barrier",
+      "required": false
+    },
+    {
+      "id": "minecraft:light",
+      "required": false
+    },
+    {
+      "id": "minecraft:structure_void",
+      "required": false
+    },
+    {
+      "id": "minecraft:jigsaw",
+      "required": false
+    },
+    {
+      "id": "minecraft:structure_block",
+      "required": false
+    },
+    {
+      "id": "minecraft:command_block",
+      "required": false
+    },
+    {
+      "id": "minecraft:chain_command_block",
+      "required": false
+    },
+    {
+      "id": "minecraft:repeating_command_block",
+      "required": false
+    },
+    {
+      "id": "minecraft:test_block",
+      "required": false
+    },
+    {
+      "id": "minecraft:test_instance_block",
+      "required": false
+    },
+    {
+      "id": "minecraft:bubble_column",
+      "required": false
+    },
+    {
+      "id": "minecraft:piston_head",
+      "required": false
+    },
+    {
+      "id": "minecraft:petrified_oak_slab",
+      "required": false
+    },
+    {
+      "id": "minecraft:player_head",
+      "required": false
+    },
+    {
+      "id": "minecraft:player_wall_head",
+      "required": false
+    },
+    {
+      "id": "minecraft:bedrock",
+      "required": false
+    },
+    {
+      "id": "minecraft:spawner",
+      "required": false
+    },
+    {
+      "id": "minecraft:trial_spawner",
+      "required": false
+    },
+    {
+      "id": "minecraft:vault",
+      "required": false
+    },
+    {
+      "id": "minecraft:budding_amethyst",
+      "required": false
+    },
+    {
+      "id": "minecraft:reinforced_deepslate",
+      "required": false
+    },
+    {
+      "id": "minecraft:end_portal_frame",
+      "required": false
+    },
+    {
+      "id": "minecraft:petrified_oak_slab",
+      "required": false
+    },
+    {
+      "id": "minecraft:player_head",
+      "required": false
+    },
+    {
+      "id": "minecraft:player_wall_head",
+      "required": false
+    },
+    {
+      "id": "minecraft:suspicious_sand",
+      "required": false
+    },
+    {
+      "id": "minecraft:suspicious_gravel",
+      "required": false
+    },
+    {
+      "id": "minecraft:dirt_path",
+      "required": false
+    },
+    {
+      "id": "minecraft:farmland",
+      "required": false
+    },
+    {
+      "id": "minecraft:chorus_plant",
+      "required": false
+    },
+    {
+      "id": "minecraft:frogspawn",
+      "required": false
+    },
+    {
+      "id": "minecraft:infested_stone",
+      "required": false
+    },
+    {
+      "id": "minecraft:infested_cobblestone",
+      "required": false
+    },
+    {
+      "id": "minecraft:infested_stone_bricks",
+      "required": false
+    },
+    {
+      "id": "minecraft:infested_mossy_stone_bricks",
+      "required": false
+    },
+    {
+      "id": "minecraft:infested_cracked_stone_bricks",
+      "required": false
+    },
+    {
+      "id": "minecraft:infested_chiseled_stone_bricks",
+      "required": false
+    },
+    {
+      "id": "minecraft:infested_deepslate",
+      "required": false
+    }
+  ]
+}

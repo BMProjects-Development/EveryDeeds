@@ -1,0 +1,13 @@
+{
+  "action": "looted",
+  "aggregate": true,
+  "category": "structures",
+  "goal": {
+    "type": "count",
+    "count": 25
+  },
+  "icon": "minecraft:chest",
+  "targets": {
+    "all": {}
+  }
+}

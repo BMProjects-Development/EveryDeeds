@@ -1,0 +1,13 @@
+{
+  "action": "eaten",
+  "aggregate": true,
+  "category": "items",
+  "goal": {
+    "type": "count",
+    "count": 200
+  },
+  "icon": "minecraft:cooked_beef",
+  "targets": {
+    "all": {}
+  }
+}

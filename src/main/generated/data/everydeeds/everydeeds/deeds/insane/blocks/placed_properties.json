@@ -1,0 +1,17 @@
+{
+  "action": "placed",
+  "category": "blocks",
+  "goal": {
+    "type": "unique",
+    "variant": "block_property"
+  },
+  "targets": {
+    "all": {
+      "exclude": "everydeeds:unobtainable",
+      "traits": [
+        "placeable",
+        "has_states"
+      ]
+    }
+  }
+}

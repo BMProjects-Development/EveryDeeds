@@ -1,0 +1,13 @@
+{
+  "action": "brewed",
+  "aggregate": true,
+  "category": "items",
+  "goal": {
+    "type": "count",
+    "count": 200
+  },
+  "icon": "minecraft:brewing_stand",
+  "targets": {
+    "all": {}
+  }
+}

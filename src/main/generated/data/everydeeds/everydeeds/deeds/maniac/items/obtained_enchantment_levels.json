@@ -1,0 +1,16 @@
+{
+  "action": "obtained",
+  "category": "items",
+  "goal": {
+    "type": "unique",
+    "variant": "enchantment_level"
+  },
+  "targets": {
+    "all": {
+      "exclude": "everydeeds:unobtainable",
+      "traits": [
+        "enchantable"
+      ]
+    }
+  }
+}

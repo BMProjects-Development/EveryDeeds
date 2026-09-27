@@ -1,0 +1,13 @@
+{
+  "action": "enchanted",
+  "aggregate": true,
+  "category": "items",
+  "goal": {
+    "type": "count",
+    "count": 200
+  },
+  "icon": "minecraft:enchanting_table",
+  "targets": {
+    "all": {}
+  }
+}

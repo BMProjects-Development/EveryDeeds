@@ -1,0 +1,7 @@
+{
+  "action": "damaged_by",
+  "category": "entities",
+  "targets": {
+    "tag": "everydeeds:attackers"
+  }
+}

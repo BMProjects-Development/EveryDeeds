@@ -1,0 +1,6 @@
+// 26.3	-999999999-01-01T00:00:00	EveryDeeds/Tags for minecraft:entity_type
+2d33c6f9e13bbb9772268cd00839f573c049eeac data/everydeeds/tags/entity_type/attackers.json
+cbae7bc5c787159183beee5be7000a0aff36d7d1 data/everydeeds/tags/entity_type/breedable.json
+794b45a60fb1cbf9988e5e38c3253e98375b5ae2 data/everydeeds/tags/entity_type/rideable.json
+6236a0b7334489f9220a0476b0f6ebcf06db461e data/everydeeds/tags/entity_type/tameable.json
+e96b5aaeac7794ea8223ad64f8926782294f4031 data/everydeeds/tags/entity_type/technical.json

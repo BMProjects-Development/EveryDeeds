@@ -1,0 +1,85 @@
+{
+  "values": [
+    "minecraft:blaze",
+    "minecraft:bogged",
+    "minecraft:breeze",
+    "minecraft:cave_spider",
+    "minecraft:creaking",
+    "minecraft:creeper",
+    "minecraft:drowned",
+    "minecraft:elder_guardian",
+    "minecraft:ender_dragon",
+    "minecraft:enderman",
+    "minecraft:endermite",
+    "minecraft:evoker",
+    "minecraft:ghast",
+    "minecraft:guardian",
+    "minecraft:hoglin",
+    "minecraft:husk",
+    "minecraft:magma_cube",
+    "minecraft:parched",
+    "minecraft:phantom",
+    "minecraft:piglin",
+    "minecraft:piglin_brute",
+    "minecraft:pillager",
+    "minecraft:ravager",
+    "minecraft:shulker",
+    "minecraft:silverfish",
+    "minecraft:skeleton",
+    "minecraft:slime",
+    "minecraft:spider",
+    "minecraft:stray",
+    "minecraft:sulfur_cube",
+    "minecraft:vex",
+    "minecraft:vindicator",
+    "minecraft:warden",
+    "minecraft:witch",
+    "minecraft:wither",
+    "minecraft:wither_skeleton",
+    "minecraft:zoglin",
+    "minecraft:zombie",
+    "minecraft:zombie_nautilus",
+    "minecraft:zombie_villager",
+    "minecraft:zombified_piglin",
+    {
+      "id": "minecraft:wolf",
+      "required": false
+    },
+    {
+      "id": "minecraft:bee",
+      "required": false
+    },
+    {
+      "id": "minecraft:iron_golem",
+      "required": false
+    },
+    {
+      "id": "minecraft:polar_bear",
+      "required": false
+    },
+    {
+      "id": "minecraft:llama",
+      "required": false
+    },
+    {
+      "id": "minecraft:trader_llama",
+      "required": false
+    },
+    {
+      "id": "minecraft:panda",
+      "required": false
+    },
+    {
+      "id": "minecraft:goat",
+      "required": false
+    },
+    {
+      "id": "minecraft:dolphin",
+      "required": false
+    },
+    {
+      "id": "minecraft:pufferfish",
+      "required": false
+    }
+  ]
+}

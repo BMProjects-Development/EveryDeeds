@@ -1,0 +1,11 @@
+{
+  "action": "traveled",
+  "category": "biomes",
+  "goal": {
+    "type": "count",
+    "count": 10000
+  },
+  "targets": {
+    "all": {}
+  }
+}

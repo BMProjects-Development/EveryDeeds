@@ -1,0 +1,17 @@
+{
+  "action": "obtained",
+  "category": "items",
+  "goal": {
+    "type": "unique",
+    "required": 3,
+    "variant": "enchantment"
+  },
+  "targets": {
+    "all": {
+      "exclude": "everydeeds:unobtainable",
+      "traits": [
+        "enchantable"
+      ]
+    }
+  }
+}

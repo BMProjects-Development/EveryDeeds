@@ -1,0 +1,6 @@
+{
+  "category": "items",
+  "action": "eaten",
+  "targets": { "all": { "traits": ["edible"], "exclude": "everydeeds:unobtainable" } },
+  "title": "Gourmet"
+}

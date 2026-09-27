@@ -1,0 +1,7 @@
+{
+  "action": "damaged_by",
+  "category": "blocks",
+  "targets": {
+    "tag": "everydeeds:damaging"
+  }
+}

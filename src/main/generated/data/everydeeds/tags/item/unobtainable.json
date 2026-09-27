@@ -1,0 +1,272 @@
+{
+  "values": [
+    {
+      "id": "minecraft:air",
+      "required": false
+    },
+    {
+      "id": "minecraft:cave_air",
+      "required": false
+    },
+    {
+      "id": "minecraft:void_air",
+      "required": false
+    },
+    {
+      "id": "minecraft:moving_piston",
+      "required": false
+    },
+    {
+      "id": "minecraft:barrier",
+      "required": false
+    },
+    {
+      "id": "minecraft:light",
+      "required": false
+    },
+    {
+      "id": "minecraft:structure_void",
+      "required": false
+    },
+    {
+      "id": "minecraft:jigsaw",
+      "required": false
+    },
+    {
+      "id": "minecraft:structure_block",
+      "required": false
+    },
+    {
+      "id": "minecraft:command_block",
+      "required": false
+    },
+    {
+      "id": "minecraft:chain_command_block",
+      "required": false
+    },
+    {
+      "id": "minecraft:repeating_command_block",
+      "required": false
+    },
+    {
+      "id": "minecraft:test_block",
+      "required": false
+    },
+    {
+      "id": "minecraft:test_instance_block",
+      "required": false
+    },
+    {
+      "id": "minecraft:bubble_column",
+      "required": false
+    },
+    {
+      "id": "minecraft:piston_head",
+      "required": false
+    },
+    {
+      "id": "minecraft:petrified_oak_slab",
+      "required": false
+    },
+    {
+      "id": "minecraft:player_head",
+      "required": false
+    },
+    {
+      "id": "minecraft:player_wall_head",
+      "required": false
+    },
+    {
+      "id": "minecraft:bedrock",
+      "required": false
+    },
+    {
+      "id": "minecraft:spawner",
+      "required": false
+    },
+    {
+      "id": "minecraft:trial_spawner",
+      "required": false
+    },
+    {
+      "id": "minecraft:vault",
+      "required": false
+    },
+    {
+      "id": "minecraft:budding_amethyst",
+      "required": false
+    },
+    {
+      "id": "minecraft:reinforced_deepslate",
+      "required": false
+    },
+    {
+      "id": "minecraft:end_portal_frame",
+      "required": false
+    },
+    {
+      "id": "minecraft:petrified_oak_slab",
+      "required": false
+    },
+    {
+      "id": "minecraft:player_head",
+      "required": false
+    },
+    {
+      "id": "minecraft:player_wall_head",
+      "required": false
+    },
+    {
+      "id": "minecraft:suspicious_sand",
+      "required": false
+    },
+    {
+      "id": "minecraft:suspicious_gravel",
+      "required": false
+    },
+    {
+      "id": "minecraft:dirt_path",
+      "required": false
+    },
+    {
+      "id": "minecraft:farmland",
+      "required": false
+    },
+    {
+      "id": "minecraft:chorus_plant",
+      "required": false
+    },
+    {
+      "id": "minecraft:frogspawn",
+      "required": false
+    },
+    {
+      "id": "minecraft:infested_stone",
+      "required": false
+    },
+    {
+      "id": "minecraft:infested_cobblestone",
+      "required": false
+    },
+    {
+      "id": "minecraft:infested_stone_bricks",
+      "required": false
+    },
+    {
+      "id": "minecraft:infested_mossy_stone_bricks",
+      "required": false
+    },
+    {
+      "id": "minecraft:infested_cracked_stone_bricks",
+      "required": false
+    },
+    {
+      "id": "minecraft:infested_chiseled_stone_bricks",
+      "required": false
+    },
+    {
+      "id": "minecraft:infested_deepslate",
+      "required": false
+    },
+    {
+      "id": "minecraft:command_block_minecart",
+      "required": false
+    },
+    {
+      "id": "minecraft:debug_stick",
+      "required": false
+    },
+    {
+      "id": "minecraft:knowledge_book",
+      "required": false
+    },
+    "minecraft:allay_spawn_egg",
+    "minecraft:armadillo_spawn_egg",
+    "minecraft:axolotl_spawn_egg",
+    "minecraft:bat_spawn_egg",
+    "minecraft:bee_spawn_egg",
+    "minecraft:blaze_spawn_egg",
+    "minecraft:bogged_spawn_egg",
+    "minecraft:breeze_spawn_egg",
+    "minecraft:camel_husk_spawn_egg",
+    "minecraft:camel_spawn_egg",
+    "minecraft:cat_spawn_egg",
+    "minecraft:cave_spider_spawn_egg",
+    "minecraft:chicken_spawn_egg",
+    "minecraft:cod_spawn_egg",
+    "minecraft:copper_golem_spawn_egg",
+    "minecraft:cow_spawn_egg",
+    "minecraft:creaking_spawn_egg",
+    "minecraft:creeper_spawn_egg",
+    "minecraft:dolphin_spawn_egg",
+    "minecraft:donkey_spawn_egg",
+    "minecraft:drowned_spawn_egg",
+    "minecraft:elder_guardian_spawn_egg",
+    "minecraft:ender_dragon_spawn_egg",
+    "minecraft:enderman_spawn_egg",
+    "minecraft:endermite_spawn_egg",
+    "minecraft:evoker_spawn_egg",
+    "minecraft:fox_spawn_egg",
+    "minecraft:frog_spawn_egg",
+    "minecraft:ghast_spawn_egg",
+    "minecraft:glow_squid_spawn_egg",
+    "minecraft:goat_spawn_egg",
+    "minecraft:guardian_spawn_egg",
+    "minecraft:happy_ghast_spawn_egg",
+    "minecraft:hoglin_spawn_egg",
+    "minecraft:horse_spawn_egg",
+    "minecraft:husk_spawn_egg",
+    "minecraft:iron_golem_spawn_egg",
+    "minecraft:llama_spawn_egg",
+    "minecraft:magma_cube_spawn_egg",
+    "minecraft:mooshroom_spawn_egg",
+    "minecraft:mule_spawn_egg",
+    "minecraft:nautilus_spawn_egg",
+    "minecraft:ocelot_spawn_egg",
+    "minecraft:panda_spawn_egg",
+    "minecraft:parched_spawn_egg",
+    "minecraft:parrot_spawn_egg",
+    "minecraft:phantom_spawn_egg",
+    "minecraft:pig_spawn_egg",
+    "minecraft:piglin_brute_spawn_egg",
+    "minecraft:piglin_spawn_egg",
+    "minecraft:pillager_spawn_egg",
+    "minecraft:polar_bear_spawn_egg",
+    "minecraft:pufferfish_spawn_egg",
+    "minecraft:rabbit_spawn_egg",
+    "minecraft:ravager_spawn_egg",
+    "minecraft:salmon_spawn_egg",
+    "minecraft:sheep_spawn_egg",
+    "minecraft:shulker_spawn_egg",
+    "minecraft:silverfish_spawn_egg",
+    "minecraft:skeleton_horse_spawn_egg",
+    "minecraft:skeleton_spawn_egg",
+    "minecraft:slime_spawn_egg",
+    "minecraft:sniffer_spawn_egg",
+    "minecraft:snow_golem_spawn_egg",
+    "minecraft:spider_spawn_egg",
+    "minecraft:squid_spawn_egg",
+    "minecraft:stray_spawn_egg",
+    "minecraft:strider_spawn_egg",
+    "minecraft:sulfur_cube_spawn_egg",
+    "minecraft:tadpole_spawn_egg",
+    "minecraft:trader_llama_spawn_egg",
+    "minecraft:tropical_fish_spawn_egg",
+    "minecraft:turtle_spawn_egg",
+    "minecraft:vex_spawn_egg",
+    "minecraft:villager_spawn_egg",
+    "minecraft:vindicator_spawn_egg",
+    "minecraft:wandering_trader_spawn_egg",
+    "minecraft:warden_spawn_egg",
+    "minecraft:witch_spawn_egg",
+    "minecraft:wither_skeleton_spawn_egg",
+    "minecraft:wither_spawn_egg",
+    "minecraft:wolf_spawn_egg",
+    "minecraft:zoglin_spawn_egg",
+    "minecraft:zombie_horse_spawn_egg",
+    "minecraft:zombie_nautilus_spawn_egg",
+    "minecraft:zombie_spawn_egg",
+    "minecraft:zombie_villager_spawn_egg",
+    "minecraft:zombified_piglin_spawn_egg"
+  ]
+}

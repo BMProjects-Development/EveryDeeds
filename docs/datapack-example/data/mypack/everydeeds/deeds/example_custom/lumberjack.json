@@ -1,0 +1,8 @@
+{
+  "category": "blocks",
+  "action": "broken",
+  "targets": { "tag": "minecraft:logs" },
+  "goal": { "type": "count", "count": 64 },
+  "title": "Lumberjack",
+  "reward": { "items": [ { "id": "minecraft:oak_sapling", "count": 4 } ] }
+}

@@ -1,0 +1,16 @@
+{
+  "action": "obtained",
+  "category": "effects",
+  "goal": {
+    "type": "unique",
+    "variant": "effect_level"
+  },
+  "targets": {
+    "all": {
+      "exclude": "everydeeds:unobtainable",
+      "traits": [
+        "leveled"
+      ]
+    }
+  }
+}

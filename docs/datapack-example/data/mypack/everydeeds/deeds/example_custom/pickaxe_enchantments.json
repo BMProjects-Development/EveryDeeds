@@ -1,0 +1,6 @@
+{
+  "category": "items",
+  "action": "obtained",
+  "targets": { "id": "minecraft:diamond_pickaxe" },
+  "goal": { "type": "unique", "variant": "enchantment", "required": 3 }
+}

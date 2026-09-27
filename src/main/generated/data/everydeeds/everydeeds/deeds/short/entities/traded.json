@@ -1,0 +1,12 @@
+{
+  "action": "traded",
+  "category": "entities",
+  "targets": {
+    "all": {
+      "exclude": "everydeeds:technical",
+      "traits": [
+        "merchant"
+      ]
+    }
+  }
+}

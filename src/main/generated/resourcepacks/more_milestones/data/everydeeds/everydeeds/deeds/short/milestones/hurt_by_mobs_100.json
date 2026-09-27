@@ -1,0 +1,13 @@
+{
+  "action": "damaged_by",
+  "aggregate": true,
+  "category": "entities",
+  "goal": {
+    "type": "count",
+    "count": 100
+  },
+  "icon": "minecraft:shield",
+  "targets": {
+    "all": {}
+  }
+}

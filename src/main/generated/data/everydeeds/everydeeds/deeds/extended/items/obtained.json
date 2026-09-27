@@ -1,0 +1,9 @@
+{
+  "action": "obtained",
+  "category": "items",
+  "targets": {
+    "all": {
+      "exclude": "everydeeds:unobtainable"
+    }
+  }
+}

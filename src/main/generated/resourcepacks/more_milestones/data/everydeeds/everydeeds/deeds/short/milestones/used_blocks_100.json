@@ -1,0 +1,13 @@
+{
+  "action": "used",
+  "aggregate": true,
+  "category": "blocks",
+  "goal": {
+    "type": "count",
+    "count": 100
+  },
+  "icon": "minecraft:lever",
+  "targets": {
+    "all": {}
+  }
+}

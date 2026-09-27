@@ -1,0 +1,13 @@
+{
+  "action": "tamed",
+  "aggregate": true,
+  "category": "entities",
+  "goal": {
+    "type": "count",
+    "count": 250
+  },
+  "icon": "minecraft:bone",
+  "targets": {
+    "all": {}
+  }
+}

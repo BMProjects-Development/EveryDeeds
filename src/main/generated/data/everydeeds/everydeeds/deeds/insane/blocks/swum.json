@@ -1,0 +1,16 @@
+{
+  "action": "traveled",
+  "category": "blocks",
+  "goal": {
+    "type": "count",
+    "count": 1000
+  },
+  "targets": {
+    "all": {
+      "exclude": "everydeeds:technical",
+      "traits": [
+        "liquid"
+      ]
+    }
+  }
+}

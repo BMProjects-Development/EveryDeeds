@@ -1,0 +1,16 @@
+{
+  "values": [
+    {
+      "id": "minecraft:luck",
+      "required": false
+    },
+    {
+      "id": "minecraft:unluck",
+      "required": false
+    },
+    {
+      "id": "minecraft:health_boost",
+      "required": false
+    }
+  ]
+}
